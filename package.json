@@ -6,11 +6,16 @@
   "scripts": {
     "test": "node test"
   },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/bradoyler/mssql-export.git"
+  },
   "keywords": [
-    "sql","mssql"
+    "sql","mssql","csv","export"
   ],
-  "author": "Brad Oyler",
-  "license": "ISC",
+  "homepage": "https://github.com/bradoyler/mssql-export",
+  "author": "Brad Oyler <bradoyler@gmail.com> (github.com/bradoyler)",
+  "license": "MIT",
   "bin": {
     "mssql-export": "./bin/index.js"
   },
