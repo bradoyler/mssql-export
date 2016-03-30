@@ -1,6 +1,6 @@
 {
   "name": "mssql-export",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A node.js library (with CLI) to export MS-SQL table to CSV file",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,10 @@
     "url": "http://github.com/bradoyler/mssql-export.git"
   },
   "keywords": [
-    "sql","mssql","csv","export"
+    "sql",
+    "mssql",
+    "csv",
+    "export"
   ],
   "homepage": "https://github.com/bradoyler/mssql-export",
   "author": "Brad Oyler <bradoyler@gmail.com> (github.com/bradoyler)",
@@ -21,7 +24,7 @@
   },
   "dependencies": {
     "commander": "2.9.0",
-    "json2csv":"3.2.0",
+    "json2csv": "3.2.0",
     "mssql": "^3.1.2"
   }
 }
