@@ -7,7 +7,7 @@ A node.js library (with CLI) to export MS-SQL table to CSV file
 npm install -g mssql-export
 ```
 
-### Usage: mssql-export [options] <table>
+#### Usage: mssql-export [options] `<table>`
 ```
   Options:
     -h, --help                       output usage information
