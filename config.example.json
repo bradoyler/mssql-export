@@ -1,0 +1,11 @@
+{
+  "mssql": {
+    "server":"",
+    "database":"",
+    "user":"",
+    "password":"",
+    "options":{
+      "instanceName":""
+    }
+  }
+}
